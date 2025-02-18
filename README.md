@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🎨 UI/UX Designer | Frontend Developer  
-- 🌍 I'm baised in Poland
-- 📫 You can contact me at kuzmenko.kateryna.dev@gmail.com
+- 🌍 Poland
+- 📫 Contact me here kuzmenko.kateryna.dev@gmail.com
 
 ## 📌 Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
