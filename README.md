@@ -4,6 +4,7 @@
 - 🎨 UI/UX Designer | Frontend Developer  
 - 🌍 Poland
 - 📫 Contact me here kuzmenko.kateryna.dev@gmail.com
+- 💻 My website https://kateryna-portfolio.vercel.app
 
 ## 📌 Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
